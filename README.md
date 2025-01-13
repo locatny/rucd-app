@@ -17,21 +17,17 @@ dan Datatables.
 
 # Makanan
 ![image](https://github.com/user-attachments/assets/6fda4378-d1dc-4c75-b4a7-390aee442898)
+![image](https://github.com/user-attachments/assets/dbc66993-bbce-4cc1-900c-a69fb0ae7b56)
+![image](https://github.com/user-attachments/assets/2895954a-b7dd-4513-b19b-ed95c258d9eb)
 
 # Minuman
 ![image](https://github.com/user-attachments/assets/0923467a-c8e7-4d1a-8042-1f67057317f7)
+![image](https://github.com/user-attachments/assets/7936876d-8073-45df-b2a2-c98259f34400)
+![image](https://github.com/user-attachments/assets/e2ea6ce3-7488-4200-8ec3-916c57586872)
 
 # About
 ![image](https://github.com/user-attachments/assets/bd3c9a50-c3db-45a1-bc9b-85341f4354dc)
 
 # Contact
 ![image](https://github.com/user-attachments/assets/1ff172f1-93a4-4514-a5db-2f7263c894a5)
-
-
-![image](https://github.com/user-attachments/assets/dbc66993-bbce-4cc1-900c-a69fb0ae7b56)
-![image](https://github.com/user-attachments/assets/2895954a-b7dd-4513-b19b-ed95c258d9eb)
-
-
-![image](https://github.com/user-attachments/assets/7936876d-8073-45df-b2a2-c98259f34400)
-![image](https://github.com/user-attachments/assets/e2ea6ce3-7488-4200-8ec3-916c57586872)
 

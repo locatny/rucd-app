@@ -28,6 +28,10 @@ dan Datatables.
 ![image](https://github.com/user-attachments/assets/1ff172f1-93a4-4514-a5db-2f7263c894a5)
 
 
+![image](https://github.com/user-attachments/assets/dbc66993-bbce-4cc1-900c-a69fb0ae7b56)
+![image](https://github.com/user-attachments/assets/2895954a-b7dd-4513-b19b-ed95c258d9eb)
+
+
 ![image](https://github.com/user-attachments/assets/7936876d-8073-45df-b2a2-c98259f34400)
 ![image](https://github.com/user-attachments/assets/e2ea6ce3-7488-4200-8ec3-916c57586872)
 
